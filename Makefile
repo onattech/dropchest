@@ -10,3 +10,7 @@ list:
 .PHONY: dev
 dev: ## 💠 Starts NextJS dev environment
 	pnpm dev
+
+.PHONY: lint
+lint: ## ✅ Checks for linting errors
+	pnpm next lint
