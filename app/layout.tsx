@@ -9,7 +9,7 @@ import { Toaster } from "react-hot-toast"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-    title: "Chestbox",
+    title: "Chest",
     description: "Dropbox clone using latest technologies",
 }
 

@@ -7,13 +7,13 @@ export default function Home() {
             <div className="flex flex-col items-center bg-[#1E1919] lg:flex-row dark:bg-slate-800">
                 <div className="flex flex-col space-y-5 bg-[#2B2929] p-10 text-white dark:bg-slate-800">
                     <h1 className="text-5xl font-bold">
-                        Welcome to Dropbox. <br />
+                        Welcome to Chest. <br />
                         <br />
                         Storing everything for you and your business needs. All in one place
                     </h1>
 
                     <p className="pb-20">
-                        Enhance your personal storage with Dropbox, offering a simple and efficient way to upload,
+                        Enhance your personal storage with Chest, offering a simple and efficient way to upload,
                         organize, and access files from anywhere. Securely store important documents and media, and
                         experience the convenience of easy file management and sharing in one centralized solution.
                     </p>
